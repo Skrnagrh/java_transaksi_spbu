@@ -26,9 +26,9 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini:
    ```bash
    git clone https://github.com/Skrnagrh/java_transaksi_spbu.git
    ```
-
-3. Buka proyek menggunakan Integrated Development Environment (IDE) seperti [Eclipse](https://www.eclipse.org/) atau [IntelliJ IDEA](https://www.jetbrains.com/idea/).
+3. Buka proyek dengan IDE seperti [NetBeans](https://netbeans.apache.org/), [Eclipse](https://www.eclipse.org/), atau [IntelliJ IDEA](https://www.jetbrains.com/idea/).
 
 4. Jalankan aplikasi dengan mengeksekusi kelas 'Latihan1.Java' 
 
 5. Ikuti petunjuk yang ditampilkan di konsol untuk melakukan transaksi.
+
